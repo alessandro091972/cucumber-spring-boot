@@ -1,9 +1,9 @@
-Simple example Cubumber + Spring Boot
+##  Simple example Cubumber + Spring Boot
 
-Use java 22
+Java version: 22
+Maven version: 3.9.7
 
-Run:
+## Run:
 mvn clean spring-boot:run
-
 Open new windows and type:
 mvn test
